@@ -1,4 +1,4 @@
-      {% include header.html %}
+      <?php include 'header.php' ?>
       
       <div class="album py-5 bg-body-tertiary">
         <div class="container">
@@ -70,4 +70,4 @@
         </div>
       </div>
 
-      {% include footer.html %}
+      <?php include 'footer.php' ?>

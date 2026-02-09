@@ -1,0 +1,31 @@
+<?php include 'header.php' ?>
+
+<div class="container">
+    <div class="row text-center pb-4">
+        <h2 class="display-3 text-decoration-underline">Contacto</h2>
+    </div>
+
+    <div class="row">
+        <span class="pb-2">
+            <img class="me-2" src="img/instagram.png" alt="instagram icon" style="width: 24px; height: 24px;">
+            <a href="https://www.instagram.com/giseerimpact/" target="_blank">Ver Instagram</a>
+        </span>
+        <span class="pb-2">
+            <img class="me-2" src="img/github.png" alt="github icon" style="width: 24px; height: 24px;">
+            <a href="https://github.com/giseer" target="_blank">Ver GitHub</a>
+        </span>
+        <span class="pb-2">
+            <img class="me-2" src="img/arroba.png" alt="arroba icon" style="width: 24px; height: 24px;">
+            <a href="mailto:sergireb2010@hotmail.com" class="text-decoration-none">sergireb2010@hotmail.com</a>
+            <svg class="bi me-2" width="18" height="18">
+                <image href="img/portapapeles.svg" id="copyImg" alt="Copiar" style="cursor: pointer;" width="18" height="18" />
+            </svg>
+        </span>
+        <span>
+            <img class="me-2" src="img/telf.png" alt="telephone icon" style="width: 24px; height: 24px;">
+            <a href="tel:+34608289676">Llamar a:</a> +34 608289676
+        </span>
+    </div>
+</div>
+
+<?php include 'footer.php' ?>

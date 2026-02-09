@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'BeaufortHeavy';
+    src: url(../fonts/BeaufortHeavy.ttf);
+}
+
+@font-face {
+    font-family: 'SpiegelBold';
+    src: url(../fonts/SpiegelBold.otf);
+}
+
+body
+{
+    font-family: 'BeaufortHeavy' !important;
+    font-size: 2em;
+}
+
+p{
+    font-family: 'SpiegelBold' !important;
+    font-size: 1.1em;
+}
+
+h1, .goldiff
+{
+    color: rgb(240, 191, 68) !important;
+}
+
+h2, .golding
+{
+    color: goldenrod !important;
+}
+
+h3, .gameTitle, .blueing
+{
+    color: #0AC8B9 !important;
+}
+
+p
+{
+    color: #0397AB !important;
+}
+
+.platformTitle
+{
+    color: #C8AA6E !important;
+}
+
+a{
+    text-decoration: none !important;
+    color: #0AC8B9 !important;
+}

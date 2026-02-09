@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es" data-bs-theme="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sergi Rebollo Portfolio</title>
+    <link rel="stylesheet" href="css/custom.css"/>
+
+    <link rel="stylesheet" href="css/sidebars.css">
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      crossorigin="anonymous"
+    />
+
+    <!-- Start Favicons -->
+    <link rel="apple-touch-icon" href="/docs/5.3/assets/img/favicons/apple-touch-icon.png" sizes="180x180">
+    <link rel="icon" href="/docs/5.3/assets/img/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
+    <link rel="icon" href="/docs/5.3/assets/img/favicons/favicon-16x16.png" sizes="16x16" type="image/png">
+    <link rel="manifest" href="/docs/5.3/assets/img/favicons/manifest.json">
+    <link rel="mask-icon" href="/docs/5.3/assets/img/favicons/safari-pinned-tab.svg" color="#712cf9">
+    <link rel="icon" href="/docs/5.3/assets/img/favicons/favicon.ico">
+    <!-- End Favicons -->
+
+  </head>
+  <body>
+
+    <!-- Start Header -->
+    <div class="container">
+        <header class="d-flex flex-wrap justify-content-center py-2 mb-4 border-bottom">
+          <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto ms-auto link-body-emphasis text-decoration-none">
+            <svg class="bi me-2" width="60" height="48"><image href="img/gamepad.svg" width="60" height="48" /></svg>
+            <h1 class="beaufort displaye">SERGI REBOLLO PORTFOLIO</h1>
+          </a>
+    
+          <ul class="nav nav-pills">
+            <li class="nav-item"><a href="index.php" class="nav-link" aria-current="page">Proyectos</a></li>
+            <li class="nav-item"><a href="sobreMi.php" class="nav-link">Sobre mi</a></li>
+            <li class="nav-item"><a href="https://github.com/giseer" target="_blank" class="nav-link">GitHub</a></li>
+            <li class="nav-item"><a href="formacion.php" class="nav-link">Formación</a></li>
+            <li class="nav-item"><a href="contacto.php" class="nav-link">Contacto</a></li>
+          </ul>
+        </header>
+      </div>
+      <!-- End Header -->
